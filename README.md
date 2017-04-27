@@ -3,8 +3,11 @@ Project for Udacity's FSND program in which I secure and set up a Linux server. 
 
 # Review Info:
 IP Address: ```54.210.144.172```
+
 SSH port: ```2200```
+
 URL: http://54.210.144.172
+
 
 Aside from software obtained from running ```sudo apt-get update``` I also installed the following software on the server:
 apache2
