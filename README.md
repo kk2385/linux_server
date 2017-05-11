@@ -1,12 +1,12 @@
 # linux_server
-Project for Udacity's FSND program in which I secure and set up a Linux server. I also deployed [the catalog project earlier from this degree](https://github.com/kk2385/catalog-app) on this secure web server. This Linux server instance is hosted by Amazon Lightsail.
+Project for Udacity's FSND program in which I secure and set up a Linux server. I also deployed [the catalog project earlier from this degree](https://github.com/kwanjack/catalog-app) on this secure web server. This Linux server instance is hosted by Amazon Lightsail.
 
 # Review Info:
-IP Address: ```54.210.144.172```
+IP Address: ```http://34.201.131.97/```
 
 SSH port: ```2200```
 
-URL: http://54.210.144.172
+URL: http://34.201.131.97/
 
 
 Aside from software obtained from running ```sudo apt-get update``` I also installed the following software on the server:
